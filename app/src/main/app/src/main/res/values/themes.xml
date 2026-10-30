@@ -1,1 +1,6 @@
+<resources>
 
+    <style name="Theme.NoorulQuran" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+</resources>
